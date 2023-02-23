@@ -6,7 +6,7 @@ This is an open source project for creating a simple web app where admins can cr
 
 You can watch the demo of this project here:
 
-[![Interview Creation Portal Demo](https://img.youtube.com/vi/BUHH9uyhB-4/0.jpg)](https://www.youtube.com/watch?v=BUHH9uyhB-4)
+[![Interview Creation Portal Demo](https://img.youtube.com/vi/BUHH9uyhB-4/0.jpg)](https://youtu.be/0iMfgwe9gy0)
 
 ## Built With
 
