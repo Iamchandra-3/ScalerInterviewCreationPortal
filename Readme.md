@@ -1,8 +1,19 @@
-# Interview-Creation-Portal
-
 # Scaler Interview Creation Portal
 
 This is an open source project for creating a simple web app where admins can create interviews by selecting participants, interview start time and end time. The main purpose of this application is to eliminate the manual process of planning interviews and to make the process more efficient and organized.
+
+## Demo
+
+You can watch the demo of this project here:
+
+[![Interview Creation Portal Demo](https://img.youtube.com/vi/BUHH9uyhB-4/0.jpg)](https://www.youtube.com/watch?v=BUHH9uyhB-4)
+
+## Built With
+
+- HTML & CSS
+- JavaScript
+- NodeJS
+- MySQL
 
 ## Features
 
