@@ -74,4 +74,4 @@ If everything is successfull you will the see the text "app is running" and "db 
 Then open go to client and open index.html. 
 
 Here is the screenshot of the working system / frontend.
-![screenshot](https://i.paste.pics/9WLA9.png)
+![screenshot](https://paste.pics/LUNUA)
