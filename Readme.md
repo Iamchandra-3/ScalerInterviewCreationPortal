@@ -86,3 +86,7 @@ Then open go to client and open index.html.
 
 Here is the screenshot of the working system / frontend.
 ![screenshot](https://i.paste.pics/LUNUA.png)
+
+## Limitations
+
+The application is currently limited to a local MySQL database, which means that any data added to the database can only be accessed from the local machine. To make the application available to anyone, a remote connection to the database needs to be setup, such as using Heroku or AWS.
